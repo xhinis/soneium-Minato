@@ -87,7 +87,6 @@ docker compose up -d
 docker compose --profile init --profile node up -d
 ```
 
-![Soneium Image](https://raw.githubusercontent.com/xhinis/soneium-Minato/refs/heads/main/Soneium.png)
 
 ![Docker Image](https://raw.githubusercontent.com/xhinis/soneium-Minato/refs/heads/main/docker.png)
 
